@@ -1,5 +1,3 @@
-# InstanceSync, Resource Cloning
-
 ---
 
 date: 2013-11-16
@@ -7,6 +5,8 @@ date: 2013-11-16
   category: \*nix
   version: 2.0.1
 ---
+
+# InstanceSync, Resource Cloning
 
 ## Use Cases
 
