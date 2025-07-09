@@ -59,8 +59,9 @@ Enable "Inflammatory" mode ('true'/'false', Default is `False`):
 
 The Estimated time to completion based on Gigabytes of consumed space
 
-::: Note
-    Computations have been made using an average transfer rate of 20 Megabytes a second.
+> [!Note]
+>
+> Computations have been made using an average transfer rate of 20 Megabytes a second.
 
 | Space Used     | EST Time     |
 | :------------- | :----------  |
