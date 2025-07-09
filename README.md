@@ -57,22 +57,23 @@ Enable "Inflammatory" mode ('true'/'false', Default is `False`):
 
 ## Estimated time of Completion
 
-**The Estimated time to completion based on Gigabytes of Consumed Space**
+The Estimated time to completion based on Gigabytes of consumed space
 
-**Computations have been made using an average transfer rate of 20 Megabytes a second.**
+::: Note
+    Computations have been made using an average transfer rate of 20 Megabytes a second.
 
-| Estimated Time          |
-|-----------------------------|
-| Space Used EST Time         |
-| ============ ============   |
-| 10G 9 Minutes               |
-| 20G 17 Minutes              |
-| 40G 34 Minutes              |
-| 80G 68 Minutes              |
-| 160G 136 Minutes            |
-| 320G 272 Minutes            |
-| 620G 544 Minutes            |
-| 1200G 1088 Minutes          |
+| Estimated Time            |   |
+| :------------- | :----------  |
+| Space Used     | EST Time     |
+| ============   | ========     |
+| 10G            | 9 Minutes    |
+| 20G            | 17 Minutes   |
+| 40G            | 34 Minutes   |
+| 80G            | 68 Minutes   |
+| 160G           | 136 Minutes  |
+| 320G           | 272 Minutes  |
+| 620G           | 544 Minutes  |
+| 1200G          | 1088 Minutes |
 
 ## The script in Action  
 
