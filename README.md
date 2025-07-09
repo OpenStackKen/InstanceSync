@@ -62,10 +62,8 @@ The Estimated time to completion based on Gigabytes of consumed space
 ::: Note
     Computations have been made using an average transfer rate of 20 Megabytes a second.
 
-| Estimated Time            |   |
-| :------------- | :----------  |
 | Space Used     | EST Time     |
-| ============   | ========     |
+| :------------- | :----------  |
 | 10G            | 9 Minutes    |
 | 20G            | 17 Minutes   |
 | 40G            | 34 Minutes   |
