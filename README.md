@@ -1,5 +1,4 @@
 ---
-
 date: 2013-11-16
   tags: migrate, clone, sync, rackspace, aws, hpcloud
   category: \*nix
